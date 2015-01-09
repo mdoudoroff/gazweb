@@ -1,0 +1,17 @@
+
+.measure {
+	margin-left: 2em;
+}
+
+.notes {
+	color: gray;
+}
+
+figure.graphic {
+	text-align: center;
+	margin: 1em 0;
+}
+
+figure.art {
+	text-align: center;
+}
